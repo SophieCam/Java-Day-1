@@ -1,3 +1,5 @@
+//below shows you how to create an if then statement by using functions and linking the script style directly
+//within you html doc
 function calculate(){
     let numcups = document.getElementById("numcups").innerHTML;
     let cupanswer = document.getElementById("cupanswer")
